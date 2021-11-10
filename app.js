@@ -42,8 +42,6 @@ console.log(validate('a2.d412'))    //false
 console.log(validate('JHD5FJ53'))   //false
 console.log(validate('!fdjn345'))   //false
 console.log(validate('a2.d412'))    //false
-console.log(validate('123'))        //false
-console.log(validate('abc'))        //false
 console.log(validate('jfkdfj3j'))   //false
 console.log(validate('Password123'))//true
 
@@ -53,6 +51,3 @@ console.log(validate('Password123'))//true
 // function validate(password) {
 //   return /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])[a-zA-Z0-9]{6,}$/.test(password);
 // }
-
-
-///i'm trying to do commit

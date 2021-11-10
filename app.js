@@ -53,3 +53,6 @@ console.log(validate('Password123'))//true
 // function validate(password) {
 //   return /^(?=.*\d)(?=.*[a-z])(?=.*[A-Z])[a-zA-Z0-9]{6,}$/.test(password);
 // }
+
+
+///i'm trying to do commit
